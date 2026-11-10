@@ -1,0 +1,31 @@
+# Credits
+
+## Design inspiration
+
+- "Travel Booking Website Template", found on Pinterest through Google Lens. The original author is unknown and the pin is no longer available. The layout was used as inspiration only. The code, the Cambodia branding, the temple logo, the theme toggle and the content are my own work.
+- If you know who made the original design, please tell me so I can credit them properly.
+
+## Photos
+
+All photos are from [Pexels](https://www.pexels.com) and used under the [Pexels License](https://www.pexels.com/license/), which allows free use and editing without required attribution. Photographer names are not listed.
+
+## Fonts
+
+Loaded from Google Fonts. All are free under the SIL Open Font License 1.1.
+
+- Inter, by Rasmus Andersson
+- Dancing Script, by Impallari Type
+- Source Serif 4, by Adobe 
+
+## Libraries
+
+- [Litepicker](https://github.com/wakirin/Litepicker), a date range picker, MIT license.
+
+## Icons and logo
+
+- The UI icons, the temple logo and the favicon are custom SVG drawings made for this project.
+- If you copy any icon from a library such as Lucide (ISC) or Heroicons (MIT), list it here.
+
+## AI assistance
+
+This project was built with help from Claude, an AI assistant made by Anthropic. It helped with code suggestions, explanations and debugging. I tested the site, made changes and chose the final content myself.
