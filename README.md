@@ -4,7 +4,7 @@ A responsive travel-booking landing page for a fictional Cambodia tour company. 
 
 > **Demo project.** Wanderly Cambodia is not a real company. The name, prices, address, phone number and email on the site are made up.
 
-**Live demo:** [add your GitHub Pages link here]
+**Live demo:** [https://github.com/smeychh/wanderly-cambodia.git]
 
 ## Features
 
